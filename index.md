@@ -5,3 +5,4 @@ title: Welcome to my blog!
 
 La página de inicio es index.md
 
+theme: minima
