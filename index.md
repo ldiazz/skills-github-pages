@@ -5,8 +5,14 @@ title: Welcome to my blog!
 
 La página de inicio es index.md
 
+</BR>
+
+<P>theme: minima</P>
+</BR>
+</BR>
+
+
 title: Ejercicio de GitHub Pages
 
 Es el título mostrado en la página, no el título en \<HEAD>
 
-theme: minima
