@@ -6,4 +6,5 @@ title: Welcome to my blog!
 La página de inicio es index.md
 
 title: Ejercicio de GitHub Pages
+
 theme: minima
