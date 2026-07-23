@@ -6,7 +6,7 @@ title: Welcome to my blog!
 La página de inicio es index.md
 </ BR>
 </ BR>
-<P>theme: dark</P>
+<P>theme: dark no, minima</P>
 </ BR>
 </ BR>
 </ BR>
